@@ -21,7 +21,7 @@ if(sayHiToGrandma === shout);{
   return(lowercase);}
   
 
-elseGrandma === 'hello'.toUpperCase){
+else(Grandma === 'hello'.toUpperCase){
   returnrcase);}
 
 if(sayHiToGrandma === "I love you, Grandma!");{
