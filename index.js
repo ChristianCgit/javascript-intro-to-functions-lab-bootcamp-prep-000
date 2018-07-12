@@ -23,8 +23,7 @@ if(sayHiToGrandma === sayHiToGrandma.toUpperCase){
 
 
 if(sayHiToGrandma === "I love you, Grandma!"){
-   var mixedcase = "I love you, too!";
-
+  
   return(mixedcase);
 
   
