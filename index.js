@@ -19,8 +19,8 @@ function sayHiToGrandma(string){
   var  mixedcase = "I love you, too!"
   if(sayHiToGrandma === whisper.toLowerCase);{
   return(lowercase)}
-  {if (sayHiToGrandma == sayHiToGrandma);{
-  return(uppercase)}
+  {if (sayHiToGrandma === shout.toUpperCase);{
+  return(whisper)}
   if(sayHiToGrandma === mixedcase);{
   return(mixedcase)
   }
