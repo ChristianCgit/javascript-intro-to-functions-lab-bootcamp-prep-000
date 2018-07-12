@@ -17,14 +17,13 @@ function sayHiToGrandma(string){
   var uppercase = "YES INDEED!";
   var  lowercase = "I can't hear you!";
   var mixedcase = "I love you, too!";
-if(sayHiToGrandma === sayHiToGrandma.toLowerCase){
+if(sayHiToGrandma === shout);{
   return(lowercase);}
 
-if(sayHiToGrandma === sayHiToGrandma.toUpperCase){
+if(sayHiToGrandma === whisper);{
   return(uppercase);}
 
- 
-if(sayHiToGrandma === "I love you, Grandma!"){
+if(sayHiToGrandma === "I love you, Grandma!");{
   return(mixedcase);}
 }
 
