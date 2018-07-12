@@ -20,7 +20,7 @@ function sayHiToGrandma(string){
 if(sayHiToGrandma === shout);{
   return(lowercase);}
 
-if(sayHiToGrandma === whisper);{
+if(sayHiToGrandma === 'hello'.toUpperCase){
   return(uppercase);}
 
 if(sayHiToGrandma === "I love you, Grandma!");{
