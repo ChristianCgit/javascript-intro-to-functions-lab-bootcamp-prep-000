@@ -19,7 +19,7 @@ function sayHiToGrandma(string){
   
   {var uppercase = "YES INDEED!"
   if (sayHiToGrandma === shout.toUpperCase);{
-  return(whisper)}
+  return(uppercase)}
   
   if(sayHiToGrandma === mixedcase);{
   return(mixedcase)
